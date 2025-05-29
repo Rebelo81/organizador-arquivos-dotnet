@@ -1,68 +1,69 @@
-# Organizador de Arquivos
+# Organizador de Arquivos em .NET
 
-Organizador de Arquivos é um utilitário em .NET para automatizar a organização de arquivos em uma pasta, separando-os em subpastas conforme a extensão, tamanho, data ou outros filtros. Ideal para manter pastas como Downloads organizadas automaticamente.
+**Solução inteligente para automação e organização de arquivos corporativos e pessoais.**
 
-## Funcionalidades
-- Organização automática por extensão
-- Filtros por tamanho e data de modificação
-- Ignorar extensões específicas
-- Organização recursiva (subpastas)
-- Geração de logs
-- Testes automatizados com xUnit
+---
 
-## Como funciona?
-O programa move todos os arquivos de uma pasta para subpastas nomeadas de acordo com a extensão do arquivo (ex: arquivos `.jpg` vão para a subpasta `jpg`). Você pode informar filtros de tamanho, data e extensões a serem ignoradas.
+## Visão Geral
 
-## Como rodar
+O Organizador de Arquivos em .NET é uma ferramenta desenvolvida em C# (.NET 8) que automatiza a organização de arquivos em diretórios, promovendo eficiência, padronização e redução de tempo gasto com tarefas manuais.  
+Ideal para empresas, profissionais de TI, escritórios, equipes de projetos e qualquer usuário que lide com grande volume de arquivos.
 
-1. **Clone o repositório ou copie os arquivos para uma pasta.**
-2. Abra o terminal na pasta do projeto.
-3. Execute:
+---
 
-```sh
-dotnet run
-```
+## Benefícios
 
-4. Siga as instruções no console:
-   - Informe o caminho da pasta a ser organizada.
-   - (Opcional) Informe extensões a serem ignoradas, separadas por vírgula.
-   - (Opcional) Informe filtros de tamanho e data.
+- **Produtividade:** Elimina o trabalho manual de separar arquivos.
+- **Padronização:** Garante que todos os arquivos estejam organizados conforme regras claras.
+- **Redução de erros:** Minimiza perdas e duplicidades de arquivos.
+- **Auditoria:** Geração de logs detalhados de todas as operações realizadas.
+- **Flexibilidade:** Filtros por extensão, tamanho, data e recursividade.
 
-## Exemplo de uso
-```
-=== Organizador de Arquivos ===
-Digite o caminho da pasta a ser organizada: C:\Users\SeuUsuario\Downloads
-Deseja ignorar alguma extensão? (separe por vírgula, ex: jpg,png) txt,mp3
-Deseja filtrar por tamanho mínimo (MB)? (deixe vazio para ignorar): 1
-Deseja filtrar por tamanho máximo (MB)? (deixe vazio para ignorar): 10
-Deseja filtrar por data de modificação após (ex: 2023-01-01)? (deixe vazio para ignorar): 2023-01-01
-Deseja filtrar por data de modificação antes (ex: 2023-12-31)? (deixe vazio para ignorar):
-Movido: foto1.jpg -> jpg/
-Movido: documento.pdf -> pdf/
-Ignorado: notas.txt
-Ignorado: musica.mp3
-Organização concluída!
-```
+---
 
-## Como rodar os testes automatizados
+## Principais Funcionalidades
 
-1. Entre na pasta do projeto de testes:
-   ```sh
-   cd TesteLimpo
-   ```
+- Organização automática por tipo de arquivo (extensão)
+- Filtros avançados: tamanho, data de modificação, extensões ignoradas
+- Organização recursiva em subpastas
+- Geração de logs para compliance e auditoria
+- Testes automatizados garantindo robustez e confiabilidade
+
+---
+
+## Como Utilizar
+
+1. **Clone o repositório e acesse a pasta do projeto.**
 2. Execute:
    ```sh
-   dotnet test
+   dotnet run
    ```
+3. Siga as instruções no console para definir regras de organização e filtros.
 
-Você verá o resultado dos testes automatizados, garantindo a qualidade do código.
+---
 
-## Como contribuir
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b minha-feature`)
-3. Commit suas alterações (`git commit -am 'Adiciona nova feature'`)
-4. Faça um push para a branch (`git push origin minha-feature`)
-5. Abra um Pull Request
+## Exemplo de Aplicação
+
+- Organização de pastas de projetos, contratos, imagens, relatórios e documentos fiscais.
+- Automatização de pastas de downloads e arquivos recebidos por e-mail.
+- Padronização de arquivos em ambientes corporativos e equipes remotas.
+
+---
+
+## Qualidade Garantida
+
+- **Testes automatizados** com xUnit.
+- Workflow de integração contínua (CI) via GitHub Actions.
+
+---
+
+## Contribua
+
+Sugestões, melhorias e colaborações são bem-vindas!  
+Abra uma issue ou envie um pull request.
+
+---
 
 ## Licença
-Este projeto está sob a licença MIT. 
+
+MIT 
