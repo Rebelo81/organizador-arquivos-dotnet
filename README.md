@@ -10,7 +10,7 @@ O Organizador de Arquivos em .NET é uma ferramenta robusta e eficiente, meticul
 
 Esta ferramenta se revela ideal para uma ampla gama de usuários, incluindo empresas de todos os portes, profissionais de TI que buscam otimizar seus processos, escritórios que lidam com grande volume de documentos, equipes de projetos que necessitam de organização e padronização, e, de fato, qualquer usuário que lide com um grande volume de arquivos e deseje simplificar sua gestão.
 
----
+
 
 ## Benefícios Ampliados
 
@@ -20,7 +20,7 @@ Esta ferramenta se revela ideal para uma ampla gama de usuários, incluindo empr
 - **Auditoria Completa e Detalhada:** Geração automática de logs detalhados de todas as operações realizadas pelo organizador, proporcionando rastreabilidade completa para fins de compliance, auditoria e resolução de problemas.
 - **Flexibilidade Inigualável:** Configure filtros avançados para organizar seus arquivos com base em uma variedade de critérios, incluindo extensão, tamanho, data de criação ou modificação, e a capacidade de ignorar extensões específicas.
 
----
+
 
 ## Funcionalidades Essenciais e Detalhadas
 
@@ -30,7 +30,7 @@ Esta ferramenta se revela ideal para uma ampla gama de usuários, incluindo empr
 - **Geração de Logs Detalhados para Compliance e Auditoria:** Mantenha um registro completo de todas as ações executadas, essencial para atender a requisitos de conformidade e facilitar auditorias internas e externas.
 - **Testes Automatizados Rigorosos Garantindo Robustez e Confiabilidade:** Beneficie-se de uma ferramenta construída com base em práticas de desenvolvimento sólidas, com testes automatizados abrangentes que garantem sua estabilidade e confiabilidade a longo prazo.
 
----
+
 
 ## Instruções Detalhadas de Utilização
 
@@ -41,7 +41,7 @@ Esta ferramenta se revela ideal para uma ampla gama de usuários, incluindo empr
    ```
 3. **Siga Atentamente as Instruções Exibidas no Console para Definir Regras de Organização e Filtros Personalizados:** O aplicativo irá guiá-lo através do processo de configuração, permitindo que você defina regras de organização personalizadas e configure filtros com base em suas necessidades específicas.
 
----
+
 
 ## Exemplos Práticos de Aplicação
 
@@ -49,25 +49,25 @@ Esta ferramenta se revela ideal para uma ampla gama de usuários, incluindo empr
 - **Automatização Completa de Pastas de Downloads e Arquivos Recebidos por E-mail:** Elimine a necessidade de organizar manualmente seus downloads e arquivos recebidos por e-mail, automatizando o processo e garantindo que seus arquivos estejam sempre organizados e acessíveis.
 - **Padronização Abrangente de Arquivos em Ambientes Corporativos e Equipes Remotas:** Garanta que todos os membros de sua equipe utilizem a mesma estrutura de organização de arquivos, promovendo a colaboração e a eficiência, especialmente em ambientes de trabalho remotos.
 
----
+
 
 ## Garantia de Qualidade Implacável
 
 - **Testes Automatizados Abrangentes com xUnit:** A robustez e a confiabilidade do Organizador de Arquivos são garantidas por uma extensa suíte de testes automatizados desenvolvidos com xUnit, que cobrem todos os aspectos da funcionalidade do aplicativo.
 - **Workflow de Integração Contínua (CI) Automatizado via GitHub Actions:** Cada alteração no código é automaticamente testada e validada através de um workflow de integração contínua (CI) no GitHub Actions, garantindo que o aplicativo permaneça estável e livre de erros.
 
----
+
 
 ## Sua Contribuição é Valiosa
 
 Sugestões, ideias de melhorias e colaborações são sempre bem-vindas e apreciadas! Sinta-se à vontade para abrir uma issue no GitHub para relatar bugs, sugerir novas funcionalidades ou enviar um pull request com suas próprias contribuições.
 
----
+
 
 ## Licença de Código Aberto
 
-<<<<<<< HEAD
+HEAD
 O Organizador de Arquivos em .NET é distribuído sob a licença MIT, uma licença de código aberto permissiva que permite que você utilize, modifique e distribua o software livremente, tanto para fins pessoais quanto comerciais.
-=======
+
 O Organizador de Arquivos em .NET é distribuído sob a licença MIT, uma licença de código aberto permissiva que permite que você utilize, modifique e distribua o software livremente, tanto para fins pessoais quanto comerciais.
->>>>>>> 533c8e1a5d39d9bc7b74715cf1a94569c4b581c5
+533c8e1a5d39d9bc7b74715cf1a94569c4b581c5
