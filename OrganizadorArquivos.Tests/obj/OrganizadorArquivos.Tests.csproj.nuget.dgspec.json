@@ -27,8 +27,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\WEX\\WEX.csproj": {
-                "projectPath": "C:\\WEX\\WEX.csproj"
+              "C:\\WEX\\OrganizadorArquivos\\OrganizadorArquivos.csproj": {
+                "projectPath": "C:\\WEX\\OrganizadorArquivos\\OrganizadorArquivos.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\WEX\\WEX.csproj": {
+    "C:\\WEX\\OrganizadorArquivos\\OrganizadorArquivos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WEX\\WEX.csproj",
-        "projectName": "WEX",
-        "projectPath": "C:\\WEX\\WEX.csproj",
+        "projectUniqueName": "C:\\WEX\\OrganizadorArquivos\\OrganizadorArquivos.csproj",
+        "projectName": "OrganizadorArquivos",
+        "projectPath": "C:\\WEX\\OrganizadorArquivos\\OrganizadorArquivos.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\WEX\\obj\\",
+        "outputPath": "C:\\WEX\\OrganizadorArquivos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

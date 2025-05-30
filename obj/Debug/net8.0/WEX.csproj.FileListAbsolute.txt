@@ -1,4 +1,0 @@
-C:\WEX\obj\Debug\net8.0\WEX.GeneratedMSBuildEditorConfig.editorconfig
-C:\WEX\obj\Debug\net8.0\WEX.AssemblyInfoInputs.cache
-C:\WEX\obj\Debug\net8.0\WEX.AssemblyInfo.cs
-C:\WEX\obj\Debug\net8.0\WEX.csproj.CoreCompileInputs.cache

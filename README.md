@@ -66,8 +66,4 @@ Sugestões, ideias de melhorias e colaborações são sempre bem-vindas e apreci
 
 ## Licença de Código Aberto
 
-<<<<<<< HEAD
 O Organizador de Arquivos em .NET é distribuído sob a licença MIT, uma licença de código aberto permissiva que permite que você utilize, modifique e distribua o software livremente, tanto para fins pessoais quanto comerciais.
-=======
-O Organizador de Arquivos em .NET é distribuído sob a licença MIT, uma licença de código aberto permissiva que permite que você utilize, modifique e distribua o software livremente, tanto para fins pessoais quanto comerciais.
->>>>>>> 533c8e1a5d39d9bc7b74715cf1a94569c4b581c5

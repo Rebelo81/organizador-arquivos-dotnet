@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\WEX.csproj" />
+    <ProjectReference Include="..\OrganizadorArquivos\OrganizadorArquivos.csproj" />
   </ItemGroup>
 
 </Project>

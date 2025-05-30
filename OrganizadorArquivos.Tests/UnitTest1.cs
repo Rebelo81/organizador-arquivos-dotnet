@@ -2,6 +2,7 @@
 using System.IO;
 using System.Collections.Generic;
 using Xunit;
+using OrganizadorArquivos;
 
 namespace OrganizadorArquivos.Tests;
 

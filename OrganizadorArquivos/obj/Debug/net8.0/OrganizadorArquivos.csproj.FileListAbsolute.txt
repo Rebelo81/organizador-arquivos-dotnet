@@ -1,0 +1,15 @@
+C:\WEX\OrganizadorArquivos\bin\Debug\net8.0\OrganizadorArquivos.exe
+C:\WEX\OrganizadorArquivos\bin\Debug\net8.0\OrganizadorArquivos.deps.json
+C:\WEX\OrganizadorArquivos\bin\Debug\net8.0\OrganizadorArquivos.runtimeconfig.json
+C:\WEX\OrganizadorArquivos\bin\Debug\net8.0\OrganizadorArquivos.dll
+C:\WEX\OrganizadorArquivos\bin\Debug\net8.0\OrganizadorArquivos.pdb
+C:\WEX\OrganizadorArquivos\obj\Debug\net8.0\OrganizadorArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\WEX\OrganizadorArquivos\obj\Debug\net8.0\OrganizadorArquivos.AssemblyInfoInputs.cache
+C:\WEX\OrganizadorArquivos\obj\Debug\net8.0\OrganizadorArquivos.AssemblyInfo.cs
+C:\WEX\OrganizadorArquivos\obj\Debug\net8.0\OrganizadorArquivos.csproj.CoreCompileInputs.cache
+C:\WEX\OrganizadorArquivos\obj\Debug\net8.0\OrganizadorArquivos.sourcelink.json
+C:\WEX\OrganizadorArquivos\obj\Debug\net8.0\OrganizadorArquivos.dll
+C:\WEX\OrganizadorArquivos\obj\Debug\net8.0\refint\OrganizadorArquivos.dll
+C:\WEX\OrganizadorArquivos\obj\Debug\net8.0\OrganizadorArquivos.pdb
+C:\WEX\OrganizadorArquivos\obj\Debug\net8.0\OrganizadorArquivos.genruntimeconfig.cache
+C:\WEX\OrganizadorArquivos\obj\Debug\net8.0\ref\OrganizadorArquivos.dll
